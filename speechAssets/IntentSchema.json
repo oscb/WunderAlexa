@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "CreateTask",
+      "slots": [
+        {
+          "name": "Task",
+          "type": "COMMON_TASKS"
+        },
+        {
+          "name": "List",
+          "type": "COMMON_LISTS"
+        }
+      ]
+    },
+    {
+      "intent": "GetTasks",
+      "slots": [
+        {
+          "name": "List",
+          "type": "COMMON_LISTS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
