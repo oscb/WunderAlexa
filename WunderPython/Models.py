@@ -88,13 +88,13 @@ class List(_WunderlistObject):
     def get_tasks(self):
         self._validate_client()
         tasks = self._client.get(Task.ENDPOINT, list_id=self.id)
-        self.tasks = [Task(client=self._client, list=self, **t) for t in tasks]
+        self.tasks = [Task(client=self._client, wlist=self, **t) for t in tasks]
         return self.tasks
 
     def create_task(self, title, creation_date=None, starred=None):
         self._validate_client()
         t = Task(client=self._client,
-                 list=self,
+                 wlist=self,
                  title=title,
                  creation_date=creation_date,
                  starred=starred)
@@ -116,18 +116,18 @@ class Task(_WunderlistObject):
 
     def __init__(self,
                  client=None,
-                 list=None,
+                 wlist=None,
                  **kwargs
                  ):
         super(Task, self).__init__(client)
-        self.list = list
+        self.wlist = wlist
 
         if len(kwargs) > 0:
             self.load_from_json(**kwargs)
 
     def to_json(self):
         props = super(Task, self).to_json()
-        props['list_id'] = self.list.id
+        props['list_id'] = self.wlist.id
         return props
 
 

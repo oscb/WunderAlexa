@@ -34,4 +34,5 @@ tmtagsHistory
 *.sublime-workspace
 .bundle
 node_modules
+.virtualenv/**
 

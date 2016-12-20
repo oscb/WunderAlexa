@@ -1,0 +1,157 @@
+CreateTask create task
+CreateTask create a task
+CreateTask create a task for {Task}
+CreateTask create a task for {Task} in my list {List}
+CreateTask create a task for {Task} in list {List}
+CreateTask create a task for {Task} in {List}
+CreateTask create a task for {Task} in {List} list
+CreateTask create a task for {Task} in my {List} list
+
+CreateTask add a task
+CreateTask add to tasks
+CreateTask add in tasks
+CreateTask add in my tasks
+CreateTask add something in my tasks
+
+CreateTask add task for {Task}
+CreateTask add task for {Task} in {List}
+CreateTask add task for {Task} in list {List}
+CreateTask add task for {Task} in my list {List}
+CreateTask add task for {Task} in my {List} list
+CreateTask add task for {Task} in {List} list
+
+CreateTask add task {Task}
+CreateTask add task {Task} in {List}
+CreateTask add task {Task} in list {List}
+CreateTask add task {Task} in my list {List}
+CreateTask add task {Task} in my {List} list
+CreateTask add task {Task} in {List} list
+
+CreateTask add task for {Task}
+CreateTask add task for {Task} to {List}
+CreateTask add task for {Task} to list {List}
+CreateTask add task for {Task} to my list {List}
+CreateTask add task for {Task} to my {List} list
+CreateTask add task for {Task} to {List} list
+
+CreateTask add task {Task}
+CreateTask add task {Task} to {List}
+CreateTask add task {Task} to list {List}
+CreateTask add task {Task} to my list {List}
+CreateTask add task {Task} to my {List} list
+CreateTask add task {Task} to {List} list
+
+CreateTask add a task for {Task}
+CreateTask add a task for {Task} in {List}
+CreateTask add a task for {Task} in list {List}
+CreateTask add a task for {Task} in my list {List}
+CreateTask add a task for {Task} in my {List} list
+CreateTask add a task for {Task} in {List} list
+
+CreateTask add a task to {Task}
+CreateTask add a task to {Task} in {List}
+CreateTask add a task to {Task} in list {List}
+CreateTask add a task to {Task} in my list {List}
+CreateTask add a task to {Task} in my {List} list
+CreateTask add a task to {Task} in {List} list
+
+CreateTask add a task for {Task}
+CreateTask add a task for {Task} to {List}
+CreateTask add a task for {Task} to list {List}
+CreateTask add a task for {Task} to my list {List}
+CreateTask add a task for {Task} to my {List} list
+CreateTask add a task for {Task} to {List} list
+
+CreateTask add {Task} to my tasks
+CreateTask add {Task} to list {List}
+CreateTask add {Task} to my list {List}
+CreateTask add {Task} to my {List} list
+CreateTask add {Task} to {List} list
+CreateTask add {Task} to {List} list
+CreateTask add {Task} to {List}
+CreateTask add {Task} to {List}
+
+CreateTask add a todo
+CreateTask add {Task} to my to do list
+CreateTask add {Task} to my to do list
+
+GetTasks get all my tasks
+GetTasks what are my tasks
+GetTasks what are my tasks for {List}
+GetTasks what are my tasks for my list {List}
+GetTasks what are my tasks for my {List} list
+GetTasks what are my tasks for {List} list
+GetTasks what are my tasks in {List}
+GetTasks what are my tasks in my list {List}
+GetTasks what are my tasks in my {List} list
+GetTasks what are my tasks in {List} list
+
+GetTasks what are my to dos
+GetTasks what are my to dos for {List}
+GetTasks what are my to dos for my list {List}
+GetTasks what are my to dos for my {List} list
+GetTasks what are my to dos for {List} list
+GetTasks what are my to dos in {List}
+GetTasks what are my to dos in my list {List}
+GetTasks what are my to dos in my {List} list
+GetTasks what are my to dos in {List} list
+
+GetTasks tell me my tasks
+GetTasks tell me my tasks in {List}
+GetTasks tell me my tasks in my {List} list
+GetTasks tell me my tasks in my list {List}
+GetTasks tell me my tasks in {List}
+GetTasks tell me my tasks in {List}
+GetTasks tell me my tasks for {List}
+GetTasks tell me my tasks for my {List} list
+GetTasks tell me my tasks for my list {List}
+GetTasks tell me my tasks for {List}
+GetTasks tell me my tasks for {List}
+
+GetTasks tell me my to dos
+GetTasks tell me my to dos in {List}
+GetTasks tell me my to dos in {List}
+GetTasks tell me my to dos in my {List} list
+GetTasks tell me my to dos in my list {List}
+GetTasks tell me my to dos in {List}
+GetTasks tell me my to dos in {List}
+GetTasks tell me my to dos for {List}
+GetTasks tell me my to dos for {List}
+GetTasks tell me my to dos for my {List} list
+GetTasks tell me my to dos for my list {List}
+GetTasks tell me my to dos for {List}
+GetTasks tell me my to dos for {List}
+
+GetTasks what are the tasks for {List}
+GetTasks what tasks are in {List}
+GetTasks what tasks are in {List} list
+GetTasks what tasks are in list {List}
+GetTasks what tasks do I have in in list {List}
+GetTasks what tasks do I have in in my {List} list
+
+GetTasks get my tasks
+GetTasks get my tasks for {List}
+GetTasks get my tasks for my list {List}
+GetTasks get my tasks for my {List} list
+GetTasks get my tasks in {List}
+GetTasks get my tasks in {List} list
+GetTasks get my tasks in the {List} list
+GetTasks get my tasks in my {List} list
+
+GetTasks get all tasks
+GetTasks get all tasks for {List}
+GetTasks get all tasks for my list {List}
+GetTasks get all tasks for my {List} list
+GetTasks get all tasks in {List}
+GetTasks get all tasks in {List} list
+GetTasks get all tasks in the {List} list
+GetTasks get all tasks in my {List} list
+
+GetTasks get all my tasks
+GetTasks get all my tasks for {List}
+GetTasks get all my tasks for my list {List}
+GetTasks get all my tasks for my {List} list
+GetTasks get all my tasks in {List}
+GetTasks get all my tasks in {List} list
+GetTasks get all my tasks in the {List} list
+GetTasks get all my tasks in my {List} list

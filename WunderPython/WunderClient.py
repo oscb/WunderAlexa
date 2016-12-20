@@ -54,6 +54,12 @@ class WunderClient:
         lists = [WunderPython.Models.List(client=self.api, **i) for i in jlists]
         return lists
 
+    def get_list(self, list_name):
+        lists = self.get_lists()
+        for l in lists:
+            if l.title.lower() == list_name.lower():
+                return l
+        return None
 
 
 
