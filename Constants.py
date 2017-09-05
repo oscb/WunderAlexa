@@ -29,7 +29,7 @@ class Messages:
     SPEECH_GET_TASKS_RETRY  = 'You can try again saying. What are my tasks in my list chores?'
 
     # Goodbye
-    CARD_TITLE_GOODBYE = 'Wunderlist closed'
+    CARD_TITLE_GOODBYE = 'Wunderlist closed.'
     SPEECH_GOODBYE = 'Thank you for using Wunderlist for Alexa. Have a nice day!'
 
     # Ask Info

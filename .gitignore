@@ -36,3 +36,5 @@ tmtagsHistory
 node_modules
 .virtualenv/**
 
+.virtualenv/
+WunderPython/__pycache__/
